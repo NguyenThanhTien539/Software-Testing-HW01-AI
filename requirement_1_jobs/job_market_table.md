@@ -24,9 +24,11 @@ Theo yêu cầu đề bài, ít nhất 3 trong 10 tin tuyển dụng phải có 
 
 **Minh chứng ảnh chụp:**
 
-- [Top](screenshots/job_01_top.png)
-- [Description](screenshots/job_01_description.png)
-- [Benefits and Job Details](screenshots/job_01_benefits_and_details.png)
+![Top](screenshots/job_01_top.png)
+
+![Description](screenshots/job_01_description.png)
+
+![Benefits and Job Details](screenshots/job_01_benefits_and_details.png)
 
 **Tóm tắt mô tả công việc:**
 Vị trí này yêu cầu dẫn dắt và hỗ trợ nhóm QA, định nghĩa chiến lược kiểm thử, thiết kế và duy trì framework kiểm thử tự động bằng Python và Playwright, theo dõi kết quả kiểm thử, báo cáo chất lượng và phối hợp với đội phát triển, product manager và các bên liên quan. Tin tuyển dụng cũng đề cập đến việc áp dụng giải pháp AI-driven trong toàn bộ vòng đời kiểm thử để cải thiện hiệu quả, độ bao phủ và chất lượng.
@@ -51,9 +53,11 @@ Tin tuyển dụng này cho thấy vai trò QA/QC đang dịch chuyển mạnh s
 
 **Minh chứng ảnh chụp:**
 
-- [Top](screenshots/job_02_top.png)
-- [Description](screenshots/job_02_description.png)
-- [Requirements](screenshots/job_02_benefits_and_details.png)
+![Top](screenshots/job_02_top.png)
+
+![Description](screenshots/job_02_description.png)
+
+![Requirements](screenshots/job_02_benefits_and_details.png)
 
 **Tóm tắt mô tả công việc:**
 Vị trí này yêu cầu QA Engineer có tư duy AI-first, chịu trách nhiệm đảm bảo chất lượng cho các hệ thống phức tạp, có lưu lượng cao và tích hợp nhiều thành phần. Công việc bao gồm manual testing, exploratory testing, integration testing, system-level testing, API/backend validation, phát triển automation scripts/frameworks, hỗ trợ CI/CD và tham gia performance, reliability, stress, scalability testing. Điểm nổi bật là ứng viên phải biết áp dụng AI/Agentic AI tools để tạo, kiểm tra, duy trì và tối ưu test plan, test case, regression suites, automation scripts, defect analysis và root-cause investigation.
@@ -78,9 +82,11 @@ Tin tuyển dụng này thể hiện rõ xu hướng AI-first trong QA/QC. Teste
 
 **Minh chứng ảnh chụp:**
 
-- [Top](screenshots/job_03_top.png)
-- [Description](screenshots/job_03_description.png)
-- [Requirements](screenshots/job_03_benefits_and_details.png)
+![Top](screenshots/job_03_top.png)
+
+![Description](screenshots/job_03_description.png)
+
+![Requirements](screenshots/job_03_benefits_and_details.png)
 
 **Tóm tắt mô tả công việc:**
 Vị trí này tuyển AI QC để hỗ trợ năng lực kiểm thử tại văn phòng Hồ Chí Minh. Công việc bao gồm manual testing, automated testing, viết test scripts và test data để đảm bảo chất lượng, độ tin cậy và tính tuân thủ của Scout, một AI-powered agent dành cho đội ngũ bán hàng. Tester cần kiểm thử khả năng tổng hợp dữ liệu, độ chính xác hội thoại, kết quả chuẩn bị cuộc họp, strategic insights trong Microsoft Teams, đồng thời phối hợp với Test Lead, đội UK, developer, architect và các bên liên quan trong quy trình Agile.
@@ -104,9 +110,11 @@ Tin tuyển dụng này thể hiện sự xuất hiện rõ ràng của vai trò
 **Link:** [Senior QA Engineer (AI-Augmented Quality Engineering) - Ins Enco | LinkedIn](https://www.linkedin.com/jobs/view/4418876195)
 **Minh chứng ảnh chụp:**
 
-- [Top](screenshots/job_04_top.png)
-- [Description](screenshots/job_04_description.png)
-- [Requirements](screenshots/job_04_benefits_and_details.png)
+![Top](screenshots/job_04_top.png)
+
+![Description](screenshots/job_04_description.png)
+
+![Requirements](screenshots/job_04_benefits_and_details.png)
 
 **Tóm tắt mô tả công việc:**
 Vị trí này là vai trò full-cycle quality engineering, kết hợp test strategy, automation, CI/CD integration và AI-powered tooling để không chỉ phát hiện lỗi mà còn phòng ngừa lỗi ở quy mô lớn. Công việc bao gồm thiết kế và duy trì test strategy cho manual, automated và AI-assisted layers, kiểm tra yêu cầu sớm theo hướng shift-left testing, viết test case theo user story và acceptance criteria, thực hiện exploratory/risk-based/session-based testing, xây dựng E2E test suites bằng Playwright, phát triển API test collections bằng Postman hoặc Bruno, tích hợp automated tests vào GitHub Actions hoặc Jenkins, triển khai AI self-healing frameworks như Mabl/Testim và visual regression pipelines như Applitools/Percy.
@@ -131,9 +139,11 @@ Tin tuyển dụng này cho thấy QA/QC đang chuyển từ kiểm thử thủ 
 
 **Minh chứng ảnh chụp:**
 
-- [Top](screenshots/job_05_top.png)
-- [Description](screenshots/job_05_description.png)
-- [Requirements](screenshots/job_05_benefits_and_details.png)
+![Top](screenshots/job_05_top.png)
+
+![Description](screenshots/job_05_description.png)
+
+![Requirements](screenshots/job_05_benefits_and_details.png)
 
 **Tóm tắt mô tả công việc:**
 Vị trí này yêu cầu QA Engineer thực hiện manual testing cho Web và PC applications, thiết kế và thực thi test cases dựa trên requirement, thực hiện functional testing, regression testing, smoke testing và UAT testing. Ứng viên cũng cần phối hợp với các nhóm liên chức năng trong môi trường làm việc bằng tiếng Anh, phát triển và duy trì automation tests, áp dụng AI-assisted testing tools hoặc techniques để cải thiện hiệu quả và độ bao phủ kiểm thử, đồng thời linh hoạt điều chỉnh phương pháp và công cụ kiểm thử theo nhu cầu dự án.
@@ -158,9 +168,11 @@ Tin tuyển dụng này cho thấy QA/QC hiện nay không chỉ yêu cầu manu
 
 **Minh chứng ảnh chụp:**
 
-- [Top](screenshots/job_06_top.png)
-- [Description](screenshots/job_06_description.png)
-- [Requirements](screenshots/job_06_benefits_and_details.png)
+![Top](screenshots/job_06_top.png)
+
+![Description](screenshots/job_06_description.png)
+
+![Requirements](screenshots/job_06_benefits_and_details.png)
 
 **Tóm tắt mô tả công việc:**  
 Vị trí này tham gia phát triển và kiểm thử các ứng dụng server và client cho hệ thống quản lý đội thể thao có lượng người dùng lớn tại Mỹ, Anh và châu Âu. QC Engineer sẽ làm việc với khách hàng ở Mỹ, UI design team, senior technical team, QA team và deployment team để đảm bảo chất lượng cho các phần chức năng được giao. Môi trường làm việc có tốc độ nhanh theo kiểu startup, tập trung vào phát triển sản phẩm từ thiết kế đến triển khai.
@@ -186,9 +198,11 @@ Tin tuyển dụng này vẫn phản ánh nhu cầu mạnh đối với kỹ nă
 
 **Minh chứng ảnh chụp:**
 
-- [Top](screenshots/job_07_top.png)
-- [Description](screenshots/job_07_description.png)
-- [Requirements](screenshots/job_07_benefits_and_details.png)
+![Top](screenshots/job_07_top.png)
+
+![Description](screenshots/job_07_description.png)
+
+![Requirements](screenshots/job_07_benefits_and_details.png)
 
 **Tóm tắt mô tả công việc:**
 Vị trí này tập trung vào automation testing cho API, backend và UI, đồng thời mở rộng sang kiểm thử các tính năng liên quan đến Machine Learning, security/authentication testing và kiểm thử tích hợp API với hệ thống của khách hàng. QA Engineer sẽ thiết kế, phát triển và duy trì automated test frameworks, viết và thực thi test scripts, phối hợp với Engineering, Product và DevOps trong toàn bộ SDLC, áp dụng Shift-Left Testing để phát hiện lỗi sớm, tích hợp automated tests vào CI/CD pipeline, phân tích kết quả kiểm thử và đưa ra khuyến nghị chất lượng. Ngoài ra, vị trí này còn yêu cầu hỗ trợ junior QEs, tham gia code review và đóng góp vào tiêu chuẩn kiểm thử của nhóm.
@@ -214,9 +228,11 @@ Tin tuyển dụng này cho thấy QA/QC đang mở rộng từ automation testi
 
 **Minh chứng ảnh chụp:**
 
-- [Top](screenshots/job_08_top.png)
-- [Description](screenshots/job_08_description.png)
-- [Requirements](screenshots/job_08_benefits_and_details.png)
+![Top](screenshots/job_08_top.png)
+
+![Description](screenshots/job_08_description.png)
+
+![Requirements](screenshots/job_08_benefits_and_details.png)
 
 **Tóm tắt mô tả công việc:**  
 Vị trí này yêu cầu Manual Tester đọc tài liệu, lên kế hoạch viết test case và thực hiện kiểm thử theo yêu cầu của leader. Công việc chính bao gồm viết test case, execute test case, report lỗi cho quản lý hoặc developer, và phối hợp trong quy trình kiểm thử app/web.
@@ -245,9 +261,11 @@ Tin tuyển dụng này cho thấy thị trường vẫn có nhu cầu rõ ràng
 
 **Minh chứng ảnh chụp:**
 
-- [Top](screenshots/job_09_top.png)
-- [Description](screenshots/job_09_description.png)
-- [Requirements](screenshots/job_09_benefits_and_details.png)
+![Top](screenshots/job_09_top.png)
+
+![Description](screenshots/job_09_description.png)
+
+![Requirements](screenshots/job_09_benefits_and_details.png)
 
 **Tóm tắt mô tả công việc:**
 Vị trí này yêu cầu Tester QA/QC làm việc trong lĩnh vực tài chính. Công việc chính bao gồm nghiên cứu tài liệu yêu cầu như BRD/FS và tài liệu thiết kế để hiểu rõ chức năng cần kiểm thử. Tester cần thiết kế test case, test scenario cho các chức năng và form nghiệp vụ, thực hiện functional testing, regression testing và re-test sau khi developer fix bug. Ngoài ra, tester cần log lỗi trên hệ thống quản lý bug như Redmine hoặc công cụ tương đương, theo dõi tiến độ xử lý lỗi, xác nhận kết quả fix, kiểm tra dữ liệu hệ thống bằng SQL, test API bằng Postman và phối hợp với Developer, Business Analyst trong quá trình làm rõ lỗi và xác nhận yêu cầu.
@@ -275,9 +293,11 @@ Tin tuyển dụng này không đề cập trực tiếp đến AI, LLM hoặc A
 **Link:** [TopCV - Manual Tester (Leader)](https://www.topcv.vn/viec-lam/manual-tester-leader/2164284.html)
 **Minh chứng ảnh chụp:**
 
-- [Top](screenshots/job_10_top.png)
-- [Description](screenshots/job_10_description.png)
-- [Requirements](screenshots/job_10_benefits_and_details.png)
+![Top](screenshots/job_10_top.png)
+
+![Description](screenshots/job_10_description.png)
+
+![Requirements](screenshots/job_10_benefits_and_details.png)
 
 **Tóm tắt mô tả công việc:**
 
