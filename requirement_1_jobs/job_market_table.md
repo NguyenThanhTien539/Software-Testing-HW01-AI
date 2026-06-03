@@ -181,7 +181,7 @@ Tin tuyển dụng này vẫn phản ánh nhu cầu mạnh đối với kỹ nă
 **Địa điểm:** Hybrid – Ho Chi Minh City
 **Thời gian làm việc:** 09:00 AM – 06:00 PM, Monday – Friday
 **Lương:** USD 1,800–2,000
-**Có liên quan AI / LLM / Automation-AI:** Có — liên quan đến Automation Testing và kiểm thử Machine Learning features/workflows; không thấy đề cập trực tiếp đến LLM
+**Có liên quan AI / LLM / Automation-AI:** Có — liên quan đến Automation Testing và kiểm thử Machine Learning features/workflows
 **Link:** [Vietnam Job Listing - QA Engineer (+5 YOE, Hybrid) | LinkedIn](https://www.linkedin.com/jobs/view/4398772040/)
 
 **Minh chứng ảnh chụp:**
@@ -227,87 +227,66 @@ Vị trí này yêu cầu Manual Tester đọc tài liệu, lên kế hoạch vi
 **Phân tích tác động của AI:**  
 Tin tuyển dụng này cho thấy thị trường vẫn có nhu cầu rõ ràng đối với Manual Tester truyền thống, đặc biệt ở các công việc đọc tài liệu, viết test case, thực thi kiểm thử và báo cáo lỗi. AI có thể hỗ trợ tạo test case nháp, gợi ý checklist hoặc tóm tắt bug report, nhưng việc hiểu yêu cầu, kiểm thử app/web thực tế, phân tích lỗi và giao tiếp với developer vẫn cần tester trực tiếp thực hiện.
 
-### Job 09 – TODO
+### Job 09 – Tester (QA/QC) - Lĩnh Vực Tài Chính
 
-**Công ty:** TODO
-**Nền tảng:** TODO
-**Ngày đăng:** TODO
-**Địa điểm:** TODO
-**Lương:** TODO
-**Có liên quan AI / LLM / Automation-AI:** TODO
-**Link:** TODO
+**Công ty:** Investingpro Joint Stock Company
+**Nền tảng:** TopCV
+**Ngày đăng / hạn:** Hạn nộp hồ sơ: 29/06/2026
+**Địa điểm:** An Hưng, Phường Hà Đông, Hà Nội
+**Thời gian làm việc:** Thứ 2 - Thứ 6, từ 08:30 đến 18:00
+**Lương:** Thỏa thuận, upto 20 triệu VND
+**Kinh nghiệm:** 2 năm
+**Số lượng tuyển:** 1 người
+**Cấp bậc:** Nhân viên
+**Lĩnh vực:** IT - Phần mềm
+**Quy mô công ty:** 25–99 nhân viên
+**Có liên quan AI / LLM / Automation-AI:** Không
+**Link:** [TopCV - Tester (QA/QC) - Lĩnh Vực Tài Chính](https://www.topcv.vn/viec-lam/tester-qa-qc-linh-vuc-tai-chinh/2182580.html)
 
 **Minh chứng ảnh chụp:**
 
 - [Top](screenshots/job_09_top.png)
 - [Description](screenshots/job_09_description.png)
-- [Requirements](screenshots/job_09_requirements.png)
+- [Requirements](screenshots/job_09_benefits_and_details.png)
 
 **Tóm tắt mô tả công việc:**
-TODO
+Vị trí này yêu cầu Tester QA/QC làm việc trong lĩnh vực tài chính. Công việc chính bao gồm nghiên cứu tài liệu yêu cầu như BRD/FS và tài liệu thiết kế để hiểu rõ chức năng cần kiểm thử. Tester cần thiết kế test case, test scenario cho các chức năng và form nghiệp vụ, thực hiện functional testing, regression testing và re-test sau khi developer fix bug. Ngoài ra, tester cần log lỗi trên hệ thống quản lý bug như Redmine hoặc công cụ tương đương, theo dõi tiến độ xử lý lỗi, xác nhận kết quả fix, kiểm tra dữ liệu hệ thống bằng SQL, test API bằng Postman và phối hợp với Developer, Business Analyst trong quá trình làm rõ lỗi và xác nhận yêu cầu.
 
 **Kỹ năng yêu cầu:**
-TODO
+Ứng viên cần tốt nghiệp Đại học chuyên ngành Công nghệ thông tin hoặc tương đương, có kinh nghiệm tester từ 2 năm trở lên, có tư duy logic tốt, cẩn thận và tỉ mỉ. Ứng viên cần có khả năng đọc hiểu tài liệu nghiệp vụ và tài liệu thiết kế, kỹ năng thu thập, phân tích, làm việc nhóm, giao tiếp và phản biện. Về chuyên môn, ứng viên cần có kinh nghiệm viết test case đầy đủ gồm input, expected result và pre-condition; thành thạo quy trình test và vòng đời bug; biết sử dụng công cụ quản lý lỗi như Redmine hoặc tương đương; biết sử dụng SQL để select dữ liệu và đối chiếu dữ liệu hệ thống; biết test API bằng Postman. Kiến thức về tài chính, chứng khoán, chứng chỉ quỹ hoặc hàng hóa là lợi thế.
+
+**Quyền lợi:**
+Ứng viên được hưởng mức lương thỏa thuận, có thể lên đến 20 triệu VND. Công ty review lương định kỳ 6 tháng một lần, có tháng lương thứ 13, tham gia đầy đủ bảo hiểm xã hội và bảo hiểm thất nghiệp theo quy định. Ngoài ra, nhân viên được tham gia teambuilding hằng năm, các hoạt động nội bộ của công ty như Trung thu, ngày 20/10 và có cơ hội tham gia các dự án lớn để phát triển năng lực bản thân trong môi trường làm việc chuyên nghiệp, thân thiện và cởi mở.
 
 **Phân tích tác động của AI:**
-TODO
+Tin tuyển dụng này không đề cập trực tiếp đến AI, LLM hoặc AI-assisted testing. Tuy nhiên, AI vẫn có thể hỗ trợ tester trong một số công việc như đọc và tóm tắt tài liệu BRD/FS, gợi ý test scenario, tạo test case nháp, sinh dữ liệu kiểm thử, hỗ trợ viết bug report và kiểm tra độ rõ ràng của expected result. Dù vậy, vì vị trí này thuộc lĩnh vực tài chính, tester vẫn cần trực tiếp hiểu nghiệp vụ, kiểm tra dữ liệu bằng SQL, xác nhận logic của hệ thống và phối hợp với Dev/BA để làm rõ yêu cầu. AI chỉ đóng vai trò hỗ trợ tăng hiệu quả, còn trách nhiệm đánh giá chất lượng cuối cùng vẫn thuộc về tester.
 
 ---
 
-### Job 10 – TODO
+### Job 10 – Manual Tester (Leader)
 
-**Công ty:** TODO
-**Nền tảng:** TODO
-**Ngày đăng:** TODO
-**Địa điểm:** TODO
-**Lương:** TODO
-**Có liên quan AI / LLM / Automation-AI:** TODO
-**Link:** TODO
-
+**Công ty:** CÔNG TY CỔ PHẦN CÔNG NGHỆ ALPHAWAY  
+**Nền tảng:** TopCV  
+**Ngày đăng / hạn:** Hạn nộp hồ sơ: 17/06/2026  
+**Địa điểm:** Hồ Chí Minh  
+**Lương:** 25–35 triệu VND  
+**Kinh nghiệm:** 3 năm  
+**Có liên quan AI / LLM / Automation-AI:** Không  
+**Link:** [TopCV - Manual Tester (Leader)](https://www.topcv.vn/viec-lam/manual-tester-leader/2164284.html)
 **Minh chứng ảnh chụp:**
 
 - [Top](screenshots/job_10_top.png)
 - [Description](screenshots/job_10_description.png)
-- [Requirements](screenshots/job_10_requirements.png)
+- [Requirements](screenshots/job_10_benefits_and_details.png)
 
 **Tóm tắt mô tả công việc:**
-TODO
+
+Vị trí này yêu cầu Manual Tester Leader phân tích yêu cầu và xây dựng tài liệu kiểm thử như Test Plan, Test Case và Test Script. Công việc bao gồm thực hiện functional testing, integration testing, regression testing và performance testing; phối hợp với BA, Developer và các bên liên quan để đảm bảo chất lượng sản phẩm; phát hiện, phân tích, theo dõi và báo cáo lỗi phần mềm; review tài liệu nghiệp vụ; kiểm thử API, database và giao diện người dùng; hỗ trợ nghiệm thu sản phẩm trước khi triển khai thực tế; quản lý tiến độ kiểm thử trong từng Sprint hoặc dự án. Vị trí này có thể làm việc theo Agile/Scrum hoặc Waterfall.
 
 **Kỹ năng yêu cầu:**
-TODO
+
+Ứng viên cần tốt nghiệp cao đẳng/đại học chuyên ngành CNTT, Khoa học máy tính hoặc ngành liên quan, có tối thiểu 3 năm kinh nghiệm Tester/QA, hiểu quy trình kiểm thử phần mềm và các mô hình phát triển phần mềm. Cần có kinh nghiệm viết Test Case, Checklist, Bug Report; thành thạo Jira, TestRail, Selenium, Postman hoặc JMeter; có kiến thức về API testing, database testing, performance testing; biết SQL cơ bản và có khả năng đọc hiểu tài liệu tiếng Anh. Ứng viên có ISTQB/CSTE, kinh nghiệm Automation Testing, tài chính/ngân hàng/bảo hiểm/thương mại điện tử, CI/CD hoặc DevOps là lợi thế.
 
 **Phân tích tác động của AI:**
-TODO
 
----
-
-## 1.3 Nhận xét sơ bộ
-
-Qua các tin tuyển dụng được thu thập, có thể thấy vai trò QA/QC vẫn yêu cầu các kỹ năng kiểm thử truyền thống như thiết kế test case, báo cáo lỗi, kiểm thử API, kiểm thử tự động, viết tài liệu và phối hợp với đội phát triển. Tuy nhiên, thị trường đang yêu cầu nhiều hơn về automation framework, CI/CD, kiểm thử API và khả năng sử dụng AI để hỗ trợ quy trình kiểm thử.
-
-AI không thay thế hoàn toàn QA/QC engineer. Thay vào đó, AI đang thay đổi vai trò của tester bằng cách hỗ trợ tạo test case nháp, gợi ý vùng regression, tóm tắt báo cáo và hỗ trợ viết script kiểm thử. Tester vẫn chịu trách nhiệm cuối cùng trong việc kiểm tra output của AI, xác nhận logic nghiệp vụ, phát hiện yêu cầu mơ hồ, chọn dữ liệu kiểm thử phù hợp và đánh giá rủi ro quan trọng của sản phẩm.
-
----
-
-## 1.4 Checklist minh chứng
-
-- [ ] Có đủ 10 tin tuyển dụng QA/QC.
-- [ ] Tất cả tin tuyển dụng nằm trong vòng 60 ngày trước ngày nộp.
-- [ ] Có ít nhất 3 tin yêu cầu hoặc ưu tiên AI / LLM / automation-AI skills.
-- [ ] Mỗi tin tuyển dụng có link nguồn.
-- [ ] Mỗi tin tuyển dụng có ảnh chụp minh chứng.
-- [ ] Ảnh chụp có thông tin tài khoản / username cá nhân.
-- [ ] Mỗi tin có tóm tắt mô tả công việc.
-- [ ] Mỗi tin có kỹ năng yêu cầu.
-- [ ] Mỗi tin có thông tin lương hoặc ghi rõ “Không công khai / Thương lượng”.
-- [ ] Mỗi tin có phân tích tác động của AI.
-
----
-
-## 1.5 Ghi chú về cách xử lý dữ liệu
-
-- Ảnh chụp tin tuyển dụng được giữ nguyên theo ngôn ngữ gốc của website tuyển dụng.
-- Phần tóm tắt trong report được trình bày thống nhất bằng tiếng Việt.
-- Nếu tin tuyển dụng không hiển thị mức lương cụ thể, phần lương được ghi là “Không công khai” hoặc “Thương lượng”.
-- Nếu tin tuyển dụng chỉ yêu cầu automation testing nhưng không đề cập trực tiếp đến AI / LLM / GenAI, tin đó được xem là automation-related, không tự động tính là AI-related.
-- Một tin tuyển dụng được đánh dấu là AI-related khi có đề cập trực tiếp đến AI, LLM, GenAI, AI-assisted testing, AI-driven testing, prompt testing, model evaluation hoặc các kỹ năng tương tự.
+Tin tuyển dụng này không đề cập trực tiếp đến AI, nhưng công việc của Tester Leader có nhiều phần có thể được AI hỗ trợ như tạo checklist kiểm thử, phân tích requirement, gợi ý test case, sinh test script cơ bản, hỗ trợ đọc log lỗi và tạo báo cáo kiểm thử. Tuy vậy, vị trí leader vẫn cần con người để quản lý tiến độ kiểm thử, đánh giá rủi ro, quyết định phạm vi regression, giao tiếp với BA/Developer và chịu trách nhiệm cuối cùng trước khi nghiệm thu sản phẩm.
