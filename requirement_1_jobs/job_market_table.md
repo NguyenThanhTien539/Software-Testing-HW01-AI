@@ -243,6 +243,8 @@ Vị trí này yêu cầu Manual Tester đọc tài liệu, lên kế hoạch vi
 **Phân tích tác động của AI:**  
 Tin tuyển dụng này cho thấy thị trường vẫn có nhu cầu rõ ràng đối với Manual Tester truyền thống, đặc biệt ở các công việc đọc tài liệu, viết test case, thực thi kiểm thử và báo cáo lỗi. AI có thể hỗ trợ tạo test case nháp, gợi ý checklist hoặc tóm tắt bug report, nhưng việc hiểu yêu cầu, kiểm thử app/web thực tế, phân tích lỗi và giao tiếp với developer vẫn cần tester trực tiếp thực hiện.
 
+---
+
 ### Job 09 – Tester (QA/QC) - Lĩnh Vực Tài Chính
 
 **Công ty:** Investingpro Joint Stock Company
