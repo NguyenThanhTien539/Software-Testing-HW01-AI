@@ -7,7 +7,9 @@
 **Ngày sản xuất:** 20.11.2017  
 **Năm sản xuất:** 2017  
 **Số sê-ri:** 29\***\*2  
-**Xuất xứ:** Việt Nam
+**Xuất xứ:\*\* Việt Nam
+
+---
 
 **Nguồn điện:** 220V – 50Hz  
 **Công suất định mức:** 45W  
@@ -18,6 +20,8 @@
 **Tiêu chuẩn Việt Nam:** TCVN 7826:2015  
 **Tiêu chuẩn an toàn/kỹ thuật:** QCVN 4:2009/BKHCN, IEC 60335-2-80:2005  
 **Số chứng nhận:** No.061610511
+
+---
 
 **Kiểu điều khiển:** Nút nhấn vật lý trên thân đế quạt  
 **Các mức tốc độ:** 0 / 1 / 2 / 3  
