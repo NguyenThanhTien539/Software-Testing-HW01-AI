@@ -243,7 +243,7 @@ Tôi sửa report để ghi các hậu quả này là tác động tiềm năng,
 ### (1) Prompt + công cụ
 
 **Công cụ:** ChatGPT  
-**Timestamp:** [ĐIỀN GIỜ THẬT BẠN CHẠY PROMPT R3-01]  
+**Timestamp:** 10:00 05/06/2026
 **Requirement:** Requirement 3 – Physical Product Testing  
 **Artifact:** AI-generated test cases cho quạt lửng ASIA A16007-XV0
 
