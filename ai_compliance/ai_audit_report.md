@@ -85,7 +85,7 @@ Tóm tắt output:
 
 ### (4) Reasoning
 
-AI output hữu ích nhưng có một số suy diễn chưa được nguồn xác nhận trực tiếp. Với Defect 01, AI suy đoán chatbot có thể được huấn luyện hoặc cấu hình chưa đầy đủ, trong khi source chỉ xác nhận chatbot đưa thông tin sai. Với Defect 02, AI nói lỗi có thể ảnh hưởng đến quyền lợi của các bên và quá trình xét xử, nhưng source chính tập trung vào việc luật sư nộp citation giả và bị sanction. Với Defect 05, AI nhắc đến “năm tốt nghiệp” như một yếu tố lọc ứng viên, nhưng source EEOC không nêu chi tiết này. 
+AI output hữu ích nhưng có một số suy diễn chưa được nguồn xác nhận trực tiếp. Với Defect 01, AI suy đoán chatbot có thể được huấn luyện hoặc cấu hình chưa đầy đủ, trong khi source chỉ xác nhận chatbot đưa thông tin sai. Với Defect 02, AI nói lỗi có thể ảnh hưởng đến quyền lợi của các bên và quá trình xét xử, nhưng source chính tập trung vào việc luật sư nộp citation giả và bị sanction. Với Defect 05, AI nhắc đến “năm tốt nghiệp” như một yếu tố lọc ứng viên, nhưng source EEOC không nêu chi tiết này.
 
 ### (5) Student fix
 
@@ -236,14 +236,103 @@ Tôi sửa report để ghi các hậu quả này là tác động tiềm năng,
 
 ---
 
+---
+
+## AI Audit Entry 06 – Prompt R3-01: Generate Physical Product Test Cases
+
+### (1) Prompt + công cụ
+
+**Công cụ:** ChatGPT  
+**Timestamp:** [ĐIỀN GIỜ THẬT BẠN CHẠY PROMPT R3-01]  
+**Requirement:** Requirement 3 – Physical Product Testing  
+**Artifact:** AI-generated test cases cho quạt lửng ASIA A16007-XV0
+
+**Prompt:**  
+Xem chi tiết trong [prompt_log_requirement_3.md](./prompt_log_requirement_3.md), Prompt R3-01.
+
+Prompt yêu cầu AI thiết kế 15 test cases cho quạt lửng ASIA A16007-XV0, gồm Test Case ID, Objective, Input, Steps, Expected Result, Actual Result và Verdict. Prompt cũng yêu cầu test cases bao gồm functional test, usability test, safety test, reliability test và một số edge cases.
+
+### (2) AI output
+
+Full AI output được lưu trong [prompt_log_requirement_3.md](./prompt_log_requirement_3.md), Prompt R3-01.
+
+Tóm tắt output:
+
+- AI tạo 15 test cases cho quạt lửng ASIA A16007-XV0.
+- AI bao phủ các chức năng cơ bản như bật/tắt, tốc độ 1/2/3, quay trái phải, tiếng ồn, độ ổn định, an toàn lồng quạt, dây điện/phích cắm và chạy liên tục.
+- AI tạo 3 edge cases: chuyển tốc độ nhanh liên tục, mất điện khi quạt đang chạy, và bật/tắt oscillation khi quạt đang chạy.
+
+### (3) Verdict
+
+**INCOMPLETE**
+
+### (4) Reasoning
+
+AI output hữu ích để tạo test cases ban đầu, nhưng chưa hoàn chỉnh vì AI bỏ sót một số edge cases vật lý quan trọng. Cụ thể, AI không tạo ra các test cases về cản nhẹ chuyển động quay trái phải, nhấn đồng thời hai nút tốc độ, và kiểm tra độ ổn định sau khi điều chỉnh độ cao hoặc góc nghiêng. Đây là các tình huống thực tế có thể xảy ra với quạt lửng dùng nút cơ và cơ chế điều chỉnh vật lý.
+
+Ngoài ra, AI chưa biết kết quả thực tế sau khi test trên thiết bị thật, nên các cột Actual Result và Verdict chỉ ở trạng thái “To be executed”. Sinh viên phải tự chạy test, ghi kết quả thực tế, xác định Pass/Fail và ghi defect nếu có.
+
+### (5) Student fix
+
+Tôi đã chạy test trên thiết bị thật và cập nhật lại file `test_cases.md` với kết quả thực tế.
+
+Các chỉnh sửa/thao tác kiểm tra:
+
+- Bổ sung 3 edge cases AI không tạo ra:
+  - TC-13: Cản nhẹ chuyển động quay trái phải.
+  - TC-14: Nhấn đồng thời hai nút tốc độ.
+  - TC-15: Kiểm tra quạt sau khi điều chỉnh độ cao hoặc góc nghiêng.
+- Ghi rõ 5 test cases có video: TC-01, TC-03, TC-05, TC-13, TC-14.
+- Cập nhật Actual Result và Verdict sau khi chạy test thật.
+- Ghi nhận defect `DEF-01 – Quạt phát ra tiếng cọt kẹt lớn khi đứng yên ở tốc độ 3`.
+- Tạo file `ai_missed_edge_cases.md` để giải thích vì sao AI bỏ sót 3 edge cases trên.
+
+---
+
+## AI Audit Entry 07 – Prompt M1-01: Generate QA/QC Role Mindmap
+
+### (1) Prompt + công cụ
+
+**Công cụ:** ChatGPT  
+**Timestamp:** 14:13 04/06/2026  
+**Requirement:** G9.1 – QA/QC Role Mindmap  
+**Artifact:** AI-generated QA/QC role mindmap
+
+**Prompt:**  
+Xem chi tiết trong [prompt_log_mindmap.md](./prompt_log_mindmap.md), Prompt M1-01.
+
+### (2) AI output
+
+Full AI output được lưu trong [prompt_log_mindmap.md](./prompt_log_mindmap.md), Prompt M1-01.
+
+Tóm tắt output:
+
+- AI tạo mindmap ban đầu về vai trò QA/QC trong thị trường 2026+.
+- Mindmap có các nhánh như công việc chính, loại kiểm thử phổ biến, kỹ năng kỹ thuật, công cụ, AI trong QA/QC, kỹ năng mềm và lộ trình nghề nghiệp.
+- Mindmap có ích như bản nháp ban đầu nhưng vẫn thiếu một số nội dung quan trọng.
+
+### (3) Verdict
+
+**INCOMPLETE**
+
+### (4) Reasoning
+
+AI tạo được mindmap ban đầu về vai trò QA/QC, bao gồm nhiều nhánh quan trọng như manual testing, automation testing, API testing, performance testing, security testing và tools. Tuy nhiên, output chưa hoàn chỉnh vì AI chưa nhấn mạnh risk-based testing, chưa tách rõ automation testing và AI-assisted testing, và chưa thể hiện đầy đủ vai trò của domain knowledge trong công việc QA/QC thực tế.
+
+### (5) Student fix
+
+Tôi đã tạo bản corrected mindmap. Trong bản sửa, tôi bổ sung risk-based testing, tách riêng automation testing và AI-assisted testing, đồng thời thêm nhánh domain knowledge gồm business rules, user workflows, data validation rules, industry-specific constraints và compliance requirements.
+
+---
+
 ## 3. AI Accuracy Summary
 
-Tổng số AI-generated artifacts được audit: **5**
+Tổng số AI-generated artifacts được audit: **7**
 
 | Verdict    | Số lượng | Tỷ lệ |
 | ---------- | -------: | ----: |
 | VALID      |        0 |    0% |
-| INCOMPLETE |        5 |  100% |
+| INCOMPLETE |        7 |  100% |
 | INVALID    |        0 |    0% |
 
 Tất cả output của AI đều hữu ích để tạo bản nháp, checklist, ý tưởng kiểm thử và phần giải thích ban đầu. Tuy nhiên, tất cả output đều cần kiểm chứng lại bởi sinh viên vì AI thường khái quát hóa, suy đoán nguyên nhân có thể hoặc mở rộng hậu quả vượt quá nội dung source xác nhận trực tiếp.
@@ -271,9 +360,3 @@ AI không nên được dùng như nguồn sự thật cuối cùng cho:
 - Salary, ngày đăng, hạn tuyển hoặc yêu cầu cụ thể của job posting.
 - Việc screenshot có đạt anti-cheat requirement hay không.
 - Việc một lỗ hổng đã bị khai thác theo cách cụ thể nào, nếu source không xác nhận.
-
----
-
-## 6. Kết luận cuối
-
-AI hữu ích trong việc hỗ trợ viết nháp và rà soát Requirement 1 và Requirement 2. Tuy nhiên, output của AI chỉ ở mức incomplete vì cần được kiểm chứng lại với source links, screenshots và yêu cầu đề bài. Report cuối cùng đã được sinh viên chỉnh sửa để tách rõ thông tin đã được xác nhận khỏi các giải thích có tính suy đoán, đồng thời tránh các claim không có bằng chứng.

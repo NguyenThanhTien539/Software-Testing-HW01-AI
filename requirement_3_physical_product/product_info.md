@@ -6,8 +6,8 @@
 **Model:** A16007-XV0  
 **Ngày sản xuất:** 20.11.2017  
 **Năm sản xuất:** 2017  
-**Số sê-ri:** 29\***\*2  
-**Xuất xứ:\*\* Việt Nam
+**Số sê-ri:** 29\***\*2
+**Xuất xứ:** Việt Nam
 
 ---
 

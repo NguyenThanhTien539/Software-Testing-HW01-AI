@@ -2,7 +2,7 @@
 
 ## Prompt R3-01 – Generate Physical Product Test Cases
 
-**Thời gian:** [ĐIỀN GIỜ THẬT BẠN CHẠY PROMPT R3-01]  
+**Thời gian:** 10:00 04/06/2026
 **Công cụ:** ChatGPT  
 **Requirement:** Requirement 3 – Physical Product Testing  
 **Artifact:** AI-generated physical product test cases for ASIA Pedestal Fan A16007-XV0
