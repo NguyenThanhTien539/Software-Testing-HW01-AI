@@ -5,6 +5,7 @@
 **Môn học:** Kiểm thử phần mềm  
 **Bài tập:** HW01 – Việc làm QA/QC, lỗi phần mềm, kiểm thử sản phẩm vật lý  
 **Công cụ AI đã sử dụng:** ChatGPT
+**Điểm tự đánh giá:** 100/100
 
 ---
 

@@ -6,7 +6,7 @@
 
 **Công ty:** CÔNG TY CỔ PHẦN CÔNG NGHỆ AIT  
 **Nền tảng:** TopCV  
-**Ngày đăng / hạn:** Ngày đăng không hiển thị / hạn nộp hồ sơ: 21/06/2026  
+**Ngày hạn:** 21/06/2026  
 **Địa điểm:** Số 1 Giang Văn Minh, phường Kim Mã, quận Ba Đình, Hà Nội  
 **Thời gian làm việc:** Thứ 2 - Thứ 6, từ 08:00 đến 17:30  
 **Lương:** 15–25 triệu VND / Up to 25M gross  
