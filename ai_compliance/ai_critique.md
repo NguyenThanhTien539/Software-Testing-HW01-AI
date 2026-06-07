@@ -1,11 +1,13 @@
 # AI Critique
 
-AI hữu ích trong bài homework này với vai trò là công cụ hỗ trợ tạo bản nháp ban đầu, nhưng chưa đủ đáng tin cậy để được sử dụng như nguồn thông tin cuối cùng.
+AI hữu ích trong bài homework này với vai trò hỗ trợ tạo bản nháp, gợi ý checklist và phát hiện một số điểm còn thiếu. Tuy nhiên, AI chưa đủ đáng tin cậy để dùng như nguồn thông tin cuối cùng.
 
-Đối với **Requirement 1**, AI hỗ trợ xem lại bảng thị trường việc làm và chỉ ra một số rủi ro liên quan đến checklist. Tuy nhiên, AI không thể tự xác minh các ảnh chụp màn hình thực tế, tên tài khoản, mức lương, ngày đăng tuyển hoặc việc một công việc có thật sự yêu cầu kỹ năng AI/LLM hay không.
+Đối với **Requirement 1**, AI giúp rà soát bảng thị trường việc làm, nhưng không thể tự xác minh ảnh chụp màn hình, tên tài khoản, mức lương, ngày đăng hoặc việc một job có thật sự yêu cầu AI/LLM hay không. Các thông tin này vẫn phải được kiểm tra thủ công từ source và screenshot.
 
-Đối với **Requirement 2**, AI giải thích rõ ràng 20 lỗi phần mềm, nhưng đôi khi mở rộng nội dung vượt quá bằng chứng từ các đường dẫn nguồn. Ví dụ, AI có thể suy luận nguyên nhân gốc rễ hoặc hậu quả có khả năng xảy ra về mặt kỹ thuật, nhưng những suy luận đó không phải lúc nào cũng được xác nhận trực tiếp bởi nguồn được trích dẫn.
+Đối với **Requirement 2**, AI giải thích 20 lỗi phần mềm khá rõ, nhưng đôi khi suy luận nguyên nhân hoặc hậu quả vượt quá nội dung nguồn xác nhận. Vì vậy, tôi phải đối chiếu lại với source links và chỉnh các claim chưa chắc chắn thành tác động hoặc nguyên nhân có thể.
 
-Đối với **Requirement 3**, AI tạo được một bộ test case khả dụng cho thiết bị vật lý, nhưng vẫn bỏ sót các edge case quan trọng trong thực tế, chẳng hạn như cản nhẹ chuyển động quay trái phải của quạt, nhấn đồng thời hai nút tốc độ cơ học, và kiểm tra độ ổn định sau khi điều chỉnh độ cao hoặc góc nghiêng. AI cũng không thể biết kết quả kiểm thử thật của quạt, vì vậy các verdict cuối cùng và defect log phải do sinh viên tự hoàn thiện.
+Đối với **Requirement 3**, AI tạo được bộ test case ban đầu cho quạt, nhưng bỏ sót các edge case thực tế như cản nhẹ chuyển động quay, nhấn đồng thời hai nút tốc độ và kiểm tra độ ổn định sau khi điều chỉnh độ cao hoặc góc nghiêng. AI cũng không thể biết actual result, verdict hoặc defect thật.
 
-Đối với phần **mindmap**, AI bao quát được các vai trò và công cụ QA/QC phổ biến, nhưng chưa nhấn mạnh đầy đủ kiểm thử dựa trên rủi ro, kiến thức nghiệp vụ và sự khác biệt giữa automation testing và AI-assisted testing.
+Đối với **mindmap**, AI bao quát được vai trò và công cụ QA/QC phổ biến, nhưng chưa nhấn mạnh đủ risk-based testing, domain knowledge và sự khác biệt giữa automation testing và AI-assisted testing.
+
+Bài học chính là AI phù hợp nhất cho brainstorming, drafting và checklist review. AI không nên thay thế việc xác minh nguồn, kiểm thử trên thiết bị thật hoặc phán đoán chuyên môn của tester.

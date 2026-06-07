@@ -196,6 +196,14 @@ Toàn bộ nhật ký prompt được lưu trong thư mục `ai_compliance/`.
 
 ---
 
+## 9. Lịch sử commit chi tiết
+
+Lịch sử commit chi tiết được lưu trên GitHub tại liên kết sau:
+
+- [Lịch sử commit GitHub](./git_commit_log.md)
+
+---
+
 ## 9. Tự đánh giá
 
 | STT           | Tiêu chí                                                                           | Điểm tối đa | Điểm tự đánh giá | Minh chứng / Ghi chú                                                                                                                                                                                                                                                                                                                    |
@@ -205,5 +213,5 @@ Toàn bộ nhật ký prompt được lưu trong thư mục `ai_compliance/`.
 | 3             | Thiết kế kiểm thử sản phẩm vật lý (15 test case + 5 video)                         |          25 |               25 | [Test cases](../requirement_3_physical_product/test_cases.md), [link video](../requirement_3_physical_product/videos/video_links.md), [ảnh thiết bị](../requirement_3_physical_product/device_photo/device_with_student_id.jpg), [ảnh chụp GitHub issue](../requirement_3_physical_product/github_issues/issues_page_with_username.png) |
 | AI-1          | Đã đính kèm [AI-02] Báo cáo kiểm toán AI theo cấu trúc 5 phần                      |           8 |                8 | [Báo cáo kiểm toán AI](../ai_compliance/ai_audit_report.md)                                                                                                                                                                                                                                                                             |
 | AI-2          | Bài phê bình AI 200–300 từ + đã đính kèm [AI-03] Bản công bố sử dụng AI            |           4 |                4 | [Bài phê bình AI](../ai_compliance/ai_critique.md), [Biểu mẫu công bố sử dụng AI](../ai_compliance/AI-03_AI_Use_Disclosure_Form.md)                                                                                                                                                                                                     |
-| AI-3          | [AI-05] Checklist đã ký + các minh chứng chống gian lận                            |           3 |                3 | [Checklist quyền riêng tư](../ai_compliance/AI-05_Privacy_Responsible_AI_Use_Checklist.md), [nhật ký prompt](../ai_compliance/prompt_log.md), [thư mục minh chứng AI R3](../requirement_3_physical_product/ai_evidence/)                                                                                                                   |
+| AI-3          | [AI-05] Checklist đã ký + các minh chứng chống gian lận                            |           3 |                3 | [Checklist quyền riêng tư](../ai_compliance/AI-05_Privacy_Responsible_AI_Use_Checklist.md), [nhật ký prompt](../ai_compliance/prompt_log.md), [thư mục minh chứng AI R3](../requirement_3_physical_product/ai_evidence/)                                                                                                                |
 | **Tổng cộng** |                                                                                    |     **100** |          **100** |                                                                                                                                                                                                                                                                                                                                         |
