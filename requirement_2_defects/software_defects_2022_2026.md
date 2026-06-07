@@ -1,20 +1,10 @@
-# Requirement 2 – Báo cáo 20 lỗi phần mềm công khai giai đoạn 2022–2026
-
-## 2.1 Mục tiêu
-
-Phần này tổng hợp và phân tích 20 lỗi phần mềm hoặc sự cố phần mềm được công bố công khai trong giai đoạn 2022–2026. Mục tiêu là đánh giá lỗi phần mềm có thể gây ảnh hưởng như thế nào đến người dùng, doanh nghiệp, bảo mật, độ tin cậy hệ thống và niềm tin xã hội đối với công nghệ.
-
-Theo yêu cầu của đề bài, báo cáo có ít nhất 5 lỗi liên quan đến AI/LLM, ví dụ như hallucination, prompt injection, bias hoặc hành vi không đáng tin cậy của chatbot AI. Mỗi lỗi bao gồm: source link, description, severity, consequences và solution. Ngoài ra, mỗi lỗi đều có một phần riêng chỉ ra một điểm AI có thể bị bias hoặc hallucinate khi giải thích lỗi đó.
-
----
-
-## 2.2 Danh sách lỗi phần mềm
+## Danh sách lỗi phần mềm
 
 ### Defect 01 – Chatbot của Air Canada cung cấp sai thông tin hoàn tiền
 
 **Nguồn tham khảo:** https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit  
 **Năm công bố:** 2024  
-**Hệ thống/Sản phẩm:** Chatbot chăm sóc khách hàng của Air Canada  
+**Hệ thống:** Chatbot chăm sóc khách hàng của Air Canada  
 **Tổ chức/Công ty:** Air Canada  
 **Loại lỗi:** AI misinformation
 **Liên quan AI/LLM:** Có  
@@ -38,13 +28,13 @@ Khi giải thích lỗi này, AI nói rằng chatbot “có thể được huấ
 
 **Nguồn tham khảo:** https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1:2022cv01461/575368/54/  
 **Năm công bố:** 2023  
-**Hệ thống/Sản phẩm:** ChatGPT được dùng để hỗ trợ nghiên cứu pháp lý  
+**Hệ thống:** ChatGPT được dùng để hỗ trợ nghiên cứu pháp lý  
 **Tổ chức/Công ty:** Vụ kiện Mata v. Avianca  
 **Loại lỗi:** LLM hallucination  
 **Liên quan AI/LLM:** Có  
 **Mức độ nghiêm trọng:** Cao
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 Một số luật sư sử dụng ChatGPT để hỗ trợ nghiên cứu pháp lý. ChatGPT đã tạo ra các án lệ và trích dẫn pháp lý không tồn tại, nhưng các thông tin đó lại được đưa vào tài liệu nộp cho tòa án.
 
 **Hậu quả:**  
@@ -62,13 +52,13 @@ AI giải thích đúng rằng ChatGPT đã tạo ra các án lệ và trích d�
 
 **Nguồn tham khảo:** https://blog.google/products-and-platforms/products/search/ai-overviews-update-may-2024/  
 **Năm công bố:** 2024  
-**Hệ thống/Sản phẩm:** Google Search AI Overviews  
+**Hệ thống:** Google Search AI Overviews  
 **Tổ chức/Công ty:** Google  
 **Loại lỗi:** AI hallucination / inaccurate information retrieval  
 **Liên quan AI/LLM:** Có  
 **Mức độ nghiêm trọng:** Cao
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 Google AI Overviews từng tạo ra một số câu trả lời không chính xác hoặc kỳ lạ cho truy vấn tìm kiếm. Các ví dụ lan truyền trên mạng cho thấy AI có thể tổng hợp sai hoặc hiểu sai nội dung từ web, dẫn đến thông tin không đáng tin cậy được hiển thị trực tiếp trong kết quả tìm kiếm.
 
 **Hậu quả:**  
@@ -92,7 +82,7 @@ AI nói rằng hệ thống “không phân biệt rõ đâu là thông tin đá
 **Liên quan AI/LLM:** Có  
 **Mức độ nghiêm trọng:** Critical
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 Chatbot Tessa được dùng để hỗ trợ người có vấn đề liên quan đến rối loạn ăn uống. Tuy nhiên, chatbot bị báo cáo là đưa ra lời khuyên có thể gây hại, chẳng hạn liên quan đến giảm cân, cắt giảm calories hoặc kiểm soát cân nặng không phù hợp với người đang gặp rối loạn ăn uống.
 
 **Hậu quả:**  
@@ -116,7 +106,7 @@ AI giải thích đúng rằng chatbot Tessa đưa ra lời khuyên không phù 
 **Liên quan AI/LLM:** Có  
 **Mức độ nghiêm trọng:** Cao
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 iTutorGroup bị EEOC kiện vì phần mềm tuyển dụng tự động bị cáo buộc đã tự động loại bỏ ứng viên lớn tuổi. Vấn đề nằm ở việc hệ thống đưa ra quyết định tuyển dụng dựa trên tiêu chí dẫn đến phân biệt tuổi.
 
 **Hậu quả:**  
@@ -140,7 +130,7 @@ AI nói hệ thống có thể dùng “tuổi, ngày sinh hoặc năm tốt ngh
 **Liên quan AI/LLM:** Có  
 **Mức độ nghiêm trọng:** Medium
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 Chatbot AI của DPD tạo ra phản hồi không phù hợp, bao gồm chửi thề, gọi chính nó là vô dụng và chỉ trích công ty. Sự cố được người dùng chia sẻ công khai và trở thành ví dụ về chatbot hướng khách hàng thiếu kiểm soát hành vi.
 
 **Hậu quả:**  
@@ -164,7 +154,7 @@ AI giải thích đúng rằng chatbot DPD đã tạo phản hồi không phù h
 **Liên quan AI/LLM:** Có  
 **Mức độ nghiêm trọng:** Medium
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 McDonald’s kết thúc thử nghiệm hệ thống AI nhận đơn tại drive-thru do các vấn đề về độ chính xác đơn hàng. Hệ thống có thể hiểu sai lời nói, món ăn, yêu cầu thay đổi hoặc bối cảnh nhiều tiếng ồn.
 
 **Hậu quả:**  
@@ -188,7 +178,7 @@ AI nêu các nguyên nhân như tiếng ồn, gió, nhiều giọng nói và men
 **Liên quan AI/LLM:** Không  
 **Mức độ nghiêm trọng:** Critical
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 Một bản cập nhật nội dung Rapid Response Content của CrowdStrike Falcon gây lỗi crash trên các máy Windows bị ảnh hưởng. Do Falcon là phần mềm bảo mật endpoint được triển khai rộng, lỗi nhanh chóng gây gián đoạn quy mô lớn.
 
 **Hậu quả:**  
@@ -212,7 +202,7 @@ AI nói bản cập nhật “có thể chứa dữ liệu hoặc cấu hình kh
 **Liên quan AI/LLM:** Không  
 **Mức độ nghiêm trọng:** Critical
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 AT&T gặp sự cố mạng diện rộng làm gián đoạn dịch vụ thoại và dữ liệu. Báo cáo của FCC liên hệ sự cố với lỗi cấu hình thiết bị trong quá trình thay đổi mạng.
 
 **Hậu quả:**  
@@ -236,7 +226,7 @@ AI nói sự cố làm khách hàng không thể “gọi điện, nhắn tin ho
 **Liên quan AI/LLM:** Không  
 **Mức độ nghiêm trọng:** Critical
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 Hệ thống NOTAM của FAA gặp sự cố, làm ảnh hưởng đến việc cung cấp thông báo an toàn bay cho phi công và dẫn đến việc tạm dừng nhiều chuyến bay nội địa tại Mỹ.
 
 **Hậu quả:**  
@@ -260,7 +250,7 @@ AI nêu rằng “hệ thống dự phòng không hoạt động tốt” có th
 **Liên quan AI/LLM:** Không  
 **Mức độ nghiêm trọng:** Cao
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 Toyota tạm dừng sản xuất tại nhiều nhà máy ở Nhật Bản do hệ thống xử lý đặt linh kiện bị sự cố. Toyota cho biết sự cố liên quan đến việc một số server xử lý parts orders không khả dụng và lỗi phát sinh sau quá trình bảo trì dữ liệu.
 
 **Hậu quả:**  
@@ -284,7 +274,7 @@ AI nói nguyên nhân có thể là “lỗi máy chủ, lỗi xử lý dữ li�
 **Liên quan AI/LLM:** Không  
 **Mức độ nghiêm trọng:** Critical
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 MOVEit Transfer có lỗ hổng SQL Injection cho phép attacker chưa xác thực có thể truy cập cơ sở dữ liệu của ứng dụng trong các phiên bản bị ảnh hưởng.
 
 **Hậu quả:**  
@@ -308,7 +298,7 @@ AI nói attacker có thể “truy cập hoặc thao túng cơ sở dữ liệu�
 **Liên quan AI/LLM:** Không  
 **Mức độ nghiêm trọng:** Critical
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 Mã độc/backdoor được phát hiện trong XZ Utils phiên bản 5.6.0 và 5.6.1. Vì XZ Utils là thành phần mã nguồn mở có thể được dùng trong nhiều hệ thống Linux, sự cố tạo rủi ro nghiêm trọng cho chuỗi cung ứng phần mềm.
 
 **Hậu quả:**  
@@ -332,7 +322,7 @@ AI nói mã độc được đưa vào “thông qua contributor mới hoặc qu
 **Liên quan AI/LLM:** Không  
 **Mức độ nghiêm trọng:** Critical
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 Optus gặp sự cố mạng toàn quốc sau một bản nâng cấp phần mềm định kỳ. Vấn đề liên quan đến thay đổi routing information sau upgrade, làm nhiều dịch vụ bị gián đoạn.
 
 **Hậu quả:**  
@@ -356,7 +346,7 @@ AI nói thiết bị mạng có thể “nhận quá nhiều hoặc nhận thôn
 **Liên quan AI/LLM:** Không  
 **Mức độ nghiêm trọng:** Cao
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 Cloudflare gặp sự cố dịch vụ vào ngày 18/11/2025. Theo postmortem của Cloudflare, sự cố bắt nguồn từ thay đổi permission trong hệ thống database, làm feature file dùng bởi Bot Management có nhiều entry hơn dự kiến và tăng kích thước, sau đó lan ra toàn mạng.
 
 **Hậu quả:**  
@@ -380,7 +370,7 @@ AI nói người dùng có thể gặp “website chậm hoặc không hoạt đ
 **Liên quan AI/LLM:** Không  
 **Mức độ nghiêm trọng:** Critical
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 Atlassian Confluence có lỗ hổng OGNL Injection cho phép attacker chưa xác thực thực thi mã tùy ý trên Confluence Server hoặc Data Center bị ảnh hưởng.
 
 **Hậu quả:**  
@@ -404,7 +394,7 @@ AI nói attacker có thể “sửa đổi tài liệu, cài mã độc hoặc d
 **Liên quan AI/LLM:** Không  
 **Mức độ nghiêm trọng:** Critical
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 Spring Framework có lỗ hổng RCE liên quan đến data binding trong một số điều kiện triển khai nhất định, đặc biệt với Spring MVC/WebFlux chạy trên JDK 9+ và cấu hình phù hợp để khai thác.
 
 **Hậu quả:**  
@@ -428,7 +418,7 @@ AI nói attacker có thể “cài web shell, đánh cắp dữ liệu, thay đ�
 **Liên quan AI/LLM:** Không  
 **Mức độ nghiêm trọng:** Cao
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 Apache Commons Text có lỗ hổng liên quan đến variable interpolation. Một số lookup mặc định trong các phiên bản bị ảnh hưởng có thể dẫn đến hành vi nguy hiểm như liên hệ server từ xa hoặc thực thi mã tùy theo cách ứng dụng sử dụng thư viện.
 
 **Hậu quả:**  
@@ -452,7 +442,7 @@ AI nói Text4Shell có thể làm “lộ thông tin” hoặc “thực thi mã
 **Liên quan AI/LLM:** Không  
 **Mức độ nghiêm trọng:** Critical
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 Cisco IOS XE Web UI có lỗ hổng cho phép attacker leo thang đặc quyền trên thiết bị bị ảnh hưởng. CISA cảnh báo về việc khai thác active/widespread đối với các lỗ hổng liên quan Web UI.
 
 **Hậu quả:**  
@@ -476,7 +466,7 @@ AI nói attacker có thể “theo dõi lưu lượng” sau khi chiếm quyền
 **Liên quan AI/LLM:** Không  
 **Mức độ nghiêm trọng:** Critical
 
-**Mô tả lỗi / Description:**  
+**Mô tả lỗi:**  
 Citrix NetScaler ADC và NetScaler Gateway có lỗ hổng rò rỉ thông tin nhạy cảm khi cấu hình làm Gateway hoặc AAA virtual server. Lỗi này thường được gọi là CitrixBleed.
 
 **Hậu quả:**  

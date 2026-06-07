@@ -9,5 +9,3 @@ AI hữu ích trong bài homework này với vai trò là công cụ hỗ trợ 
 Đối với **Requirement 3**, AI tạo được một bộ test case khả dụng cho thiết bị vật lý, nhưng vẫn bỏ sót các edge case quan trọng trong thực tế, chẳng hạn như cản nhẹ chuyển động quay trái phải của quạt, nhấn đồng thời hai nút tốc độ cơ học, và kiểm tra độ ổn định sau khi điều chỉnh độ cao hoặc góc nghiêng. AI cũng không thể biết kết quả kiểm thử thật của quạt, vì vậy các verdict cuối cùng và defect log phải do sinh viên tự hoàn thiện.
 
 Đối với phần **mindmap**, AI bao quát được các vai trò và công cụ QA/QC phổ biến, nhưng chưa nhấn mạnh đầy đủ kiểm thử dựa trên rủi ro, kiến thức nghiệp vụ và sự khác biệt giữa automation testing và AI-assisted testing.
-
-Bài học chính tôi rút ra là AI phù hợp nhất cho việc brainstorm ý tưởng, tạo bản nháp và hỗ trợ kiểm tra checklist. AI không nên thay thế việc xác minh của con người, kiểm tra nguồn, thực thi kiểm thử trên thiết bị thật hoặc phán đoán chuyên môn của tester.

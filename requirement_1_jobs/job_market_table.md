@@ -245,7 +245,7 @@ Tin tuyển dụng này cho thấy thị trường vẫn có nhu cầu rõ ràng
 **Nền tảng:** TopCV
 **Ngày hạn:** 29/06/2026
 **Địa điểm:** An Hưng, Phường Hà Đông, Hà Nội
-**Lương:** Thỏa thuận, upto 20 triệu VND
+**Lương:** Thỏa thuận, up to 20 triệu VND
 **Có liên quan AI / LLM / Automation-AI:** Không
 **Link:** [TopCV - Tester (QA/QC) - Lĩnh Vực Tài Chính](https://www.topcv.vn/viec-lam/tester-qa-qc-linh-vuc-tai-chinh/2182580.html)
 

@@ -12,13 +12,11 @@
 **Artifact:** AI review cho file [job_market_table.md](../requirement_1_jobs/job_market_table.md)
 
 **Prompt:**
-Xem chi tiết trong [prompt_log.md](./prompt_log.md), Prompt R1-01.
-
-Prompt yêu cầu AI kiểm tra file Requirement 1 theo checklist: có đủ 10 job QA/QC hay chưa, có ít nhất 3 job liên quan AI/LLM/automation-AI hay chưa, mỗi job có source link, dated screenshot, job description, required skills, salary và AI Impact Analysis hay chưa. Prompt cũng yêu cầu AI chỉ ra các phần có thể bị overclaim về AI, thiếu thông tin hoặc lỗi trình bày Markdown.
+Xem chi tiết trong [prompt_log_requirement_1.md](./prompt_log_requirement_1.md), Prompt R1-01.
 
 ### (2) AI output
 
-Full AI output được lưu trong [prompt_log.md](./prompt_log.md), Prompt R1-01.
+Toàn bộ AI output được lưu trong [prompt_log_requirement_1.md](./prompt_log_requirement_1.md)
 
 Tóm tắt output:
 
@@ -57,9 +55,7 @@ Các chỉnh sửa/thao tác kiểm tra:
 **Artifact:** AI-generated explanation cho Defect 01–05
 
 **Prompt:**
-Xem chi tiết trong [prompt_log.md](./prompt_log.md), Prompt R2-01.
-
-Prompt yêu cầu AI giải thích 5 lỗi phần mềm bằng ngôn ngữ đơn giản, gồm: chuyện gì đã xảy ra, nguyên nhân có thể, hậu quả, mức độ nghiêm trọng, giải pháp khả thi và loại kiểm thử có thể phát hiện hoặc giảm rủi ro.
+Xem chi tiết trong [prompt_log_requirement_2.md](./prompt_log_requirement_2.md)
 
 Các defect được xử lý:
 
@@ -71,7 +67,7 @@ Các defect được xử lý:
 
 ### (2) AI output
 
-AI output được lưu trong [prompt_log.md](./prompt_log.md), Prompt R2-01.
+AI output được lưu trong [prompt_log_requirement_2.md](./prompt_log_requirement_2.md)
 
 Tóm tắt output:
 
@@ -109,16 +105,11 @@ Tôi đã đối chiếu từng phần với source link và sửa lại report 
 **Artifact:** AI-generated explanation cho Defect 06–10
 
 **Prompt:**
-Xem chi tiết trong [prompt_log.md](./prompt_log.md), Prompt R2-02.
-
-Prompt yêu cầu AI giải thích 5 lỗi phần mềm hoặc sự cố liên quan đến phần mềm bằng ngôn ngữ đơn giản, gồm: chuyện gì đã xảy ra, nguyên nhân có thể, hậu quả, mức độ nghiêm trọng, giải pháp khả thi và loại kiểm thử có thể phát hiện hoặc giảm rủi ro.
-
-Các defect được xử lý: 6. Chatbot AI của DPD chửi thề, tự gọi mình là vô dụng và chỉ trích công ty. 7. McDonald’s kết thúc thử nghiệm AI drive-thru với IBM sau vấn đề độ chính xác đơn hàng. 8. Bản cập nhật CrowdStrike Falcon khiến máy Windows crash trên toàn cầu. 9. AT&T gặp outage toàn quốc sau thay đổi mạng có lỗi cấu hình. 10. FAA NOTAM outage làm gián đoạn các chuyến bay nội địa tại Hoa Kỳ.
+Xem chi tiết trong [prompt_log_requirement_2.md](./prompt_log_requirement_2.md).
 
 ### (2) AI output
 
-Full AI output được lưu trong [prompt_log.md](./prompt_log.md), Prompt R2-02.
-
+AI output được lưu trong [prompt_log_requirement_2.md](./prompt_log_requirement_2.md)
 Tóm tắt output:
 
 - AI giải thích rõ 5 sự cố.
@@ -155,15 +146,11 @@ Tôi sửa report để tách rõ thông tin đã được source xác nhận v�
 **Artifact:** AI-generated explanation cho Defect 11–15
 
 **Prompt:**
-Xem chi tiết trong [prompt_log.md](./prompt_log.md), Prompt R2-03.
-
-Prompt yêu cầu AI giải thích 5 lỗi phần mềm hoặc sự cố liên quan đến phần mềm bằng ngôn ngữ đơn giản, gồm: chuyện gì đã xảy ra, nguyên nhân có thể, hậu quả, mức độ nghiêm trọng, giải pháp khả thi và loại kiểm thử có thể phát hiện hoặc giảm rủi ro.
-
-Các defect được xử lý: 11. Toyota dừng sản xuất tại Nhật Bản vì hệ thống đặt hàng linh kiện/phụ tùng bị lỗi. 12. MOVEit Transfer có lỗ hổng SQL injection CVE-2023-34362. 13. XZ Utils 5.6.0 và 5.6.1 bị ảnh hưởng bởi backdoor CVE-2024-3094. 14. Optus outage toàn quốc sau routine software upgrade và thay đổi routing information. 15. Cloudflare outage ngày 18/11/2025 do vấn đề kích thước feature file.
+Xem chi tiết trong [prompt_log_requirement_2.md](./prompt_log_requirement_2.md).
 
 ### (2) AI output
 
-Full AI output được lưu trong [prompt_log.md](./prompt_log.md), Prompt R2-03.
+Full AI output được lưu trong [prompt_log_requirement_2.md](./prompt_log_requirement_2.md)
 
 Tóm tắt output:
 
@@ -200,15 +187,11 @@ Tôi chỉnh report để bám sát source hơn:
 **Artifact:** AI-generated explanation cho Defect 16–20
 
 **Prompt:**
-Xem chi tiết trong [prompt_log.md](./prompt_log.md), Prompt R2-04.
-
-Prompt yêu cầu AI giải thích 5 lỗi phần mềm hoặc lỗ hổng bảo mật bằng ngôn ngữ đơn giản, gồm: chuyện gì đã xảy ra, nguyên nhân có thể, hậu quả, mức độ nghiêm trọng, giải pháp khả thi và loại kiểm thử có thể phát hiện hoặc giảm rủi ro.
-
-Các defect được xử lý: 16. Atlassian Confluence OGNL injection CVE-2022-26134. 17. Spring4Shell remote code execution CVE-2022-22965. 18. Apache Commons Text Text4Shell CVE-2022-42889. 19. Cisco IOS XE Web UI privilege escalation CVE-2023-20198. 20. CitrixBleed sensitive information disclosure CVE-2023-4966.
+Xem chi tiết trong [prompt_log_requirement_2.md](./prompt_log_requirement_2.md)
 
 ### (2) AI output
 
-Full AI output được lưu trong [prompt_log.md](./prompt_log.md), Prompt R2-04.
+Full AI output được lưu trong [prompt_log_requirement_2.md](./prompt_log_requirement_2.md)
 
 Tóm tắt output:
 
@@ -236,8 +219,6 @@ Tôi sửa report để ghi các hậu quả này là tác động tiềm năng,
 
 ---
 
----
-
 ## AI Audit Entry 06 – Prompt R3-01: Generate Physical Product Test Cases
 
 ### (1) Prompt + công cụ
@@ -248,13 +229,11 @@ Tôi sửa report để ghi các hậu quả này là tác động tiềm năng,
 **Artifact:** AI-generated test cases cho quạt lửng ASIA A16007-XV0
 
 **Prompt:**  
-Xem chi tiết trong [prompt_log_requirement_3.md](./prompt_log_requirement_3.md), Prompt R3-01.
-
-Prompt yêu cầu AI thiết kế 15 test cases cho quạt lửng ASIA A16007-XV0, gồm Test Case ID, Objective, Input, Steps, Expected Result, Actual Result và Verdict. Prompt cũng yêu cầu test cases bao gồm functional test, usability test, safety test, reliability test và một số edge cases.
+Xem chi tiết trong [prompt_log_requirement_3.md](./prompt_log_requirement_3.md)
 
 ### (2) AI output
 
-Full AI output được lưu trong [prompt_log_requirement_3.md](./prompt_log_requirement_3.md), Prompt R3-01.
+Full AI output được lưu trong [prompt_log_requirement_3.md](./prompt_log_requirement_3.md)
 
 Tóm tắt output:
 
@@ -299,11 +278,11 @@ Các chỉnh sửa/thao tác kiểm tra:
 **Artifact:** AI-generated QA/QC role mindmap
 
 **Prompt:**  
-Xem chi tiết trong [prompt_log_mindmap.md](./prompt_log_mindmap.md), Prompt M1-01.
+Xem chi tiết trong [prompt_log_mindmap.md](./prompt_log_mindmap.md)
 
 ### (2) AI output
 
-Full AI output được lưu trong [prompt_log_mindmap.md](./prompt_log_mindmap.md), Prompt M1-01.
+Full AI output được lưu trong [prompt_log_mindmap.md](./prompt_log_mindmap.md)
 
 Tóm tắt output:
 
@@ -322,41 +301,3 @@ AI tạo được mindmap ban đầu về vai trò QA/QC, bao gồm nhiều nhá
 ### (5) Student fix
 
 Tôi đã tạo bản corrected mindmap. Trong bản sửa, tôi bổ sung risk-based testing, tách riêng automation testing và AI-assisted testing, đồng thời thêm nhánh domain knowledge gồm business rules, user workflows, data validation rules, industry-specific constraints và compliance requirements.
-
----
-
-## 3. AI Accuracy Summary
-
-Tổng số AI-generated artifacts được audit: **7**
-
-| Verdict    | Số lượng | Tỷ lệ |
-| ---------- | -------: | ----: |
-| VALID      |        0 |    0% |
-| INCOMPLETE |        7 |  100% |
-| INVALID    |        0 |    0% |
-
-Tất cả output của AI đều hữu ích để tạo bản nháp, checklist, ý tưởng kiểm thử và phần giải thích ban đầu. Tuy nhiên, tất cả output đều cần kiểm chứng lại bởi sinh viên vì AI thường khái quát hóa, suy đoán nguyên nhân có thể hoặc mở rộng hậu quả vượt quá nội dung source xác nhận trực tiếp.
-
----
-
-## 4. Khi nào nên dùng AI
-
-AI nên được dùng để:
-
-- Tạo bản nháp ban đầu.
-- Gợi ý checklist.
-- Gợi ý loại kiểm thử phù hợp.
-- Tóm tắt rủi ro phổ biến.
-- Rà soát xem report còn thiếu trường thông tin nào.
-
----
-
-## 5. Khi nào không nên dùng AI
-
-AI không nên được dùng như nguồn sự thật cuối cùng cho:
-
-- Nguyên nhân chính xác của sự cố thực tế.
-- Hậu quả pháp lý hoặc hậu quả chính thức.
-- Salary, ngày đăng, hạn tuyển hoặc yêu cầu cụ thể của job posting.
-- Việc screenshot có đạt anti-cheat requirement hay không.
-- Việc một lỗ hổng đã bị khai thác theo cách cụ thể nào, nếu source không xác nhận.
