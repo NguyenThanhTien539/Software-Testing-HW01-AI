@@ -1,6 +1,29 @@
 ﻿# Git Commit Log
 
 ```text
+* commit a8f7f3cde4e6afb9247a4e43db8795070128443b
+| Author: NguyenThanhTien539 <161334882+NguyenThanhTien539@users.noreply.github.com>
+| Date:   2026-06-08 06:52:15 +0700
+| 
+|     add repport (pdf)
+| 
+|  report/main_report.pdf | Bin 0 -> 216719 bytes
+|  1 file changed, 0 insertions(+), 0 deletions(-)
+| 
+* commit 470384ae99a6d41934c10909902f997fb5c15202
+| Author: NguyenThanhTien539 <161334882+NguyenThanhTien539@users.noreply.github.com>
+| Date:   2026-06-08 06:51:47 +0700
+| 
+|     fix all again and add git commit logs
+| 
+|  ai_compliance/ai_critique.md                   |  12 +-
+|  report/git_commit_log.md                       | 252 +++++++++++++++++++++++
+|  report/main_report.md                          |  10 +-
+|  report/main_report.pdf                         | Bin 214766 -> 0 bytes
+|  report/self_assessment.md                      |   2 +-
+|  requirement_3_physical_product/product_info.md |   2 +-
+|  6 files changed, 270 insertions(+), 8 deletions(-)
+| 
 * commit 88fbb3fbc0fc758a7a20c4f17590674bc81f1ed0
 | Author: NguyenThanhTien539 <161334882+NguyenThanhTien539@users.noreply.github.com>
 | Date:   2026-06-08 06:41:16 +0700
