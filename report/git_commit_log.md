@@ -1,6 +1,17 @@
 ﻿# Git Commit Log
 
 ```text
+* commit b83c8f58546f218c432e0fcbb277687566fed5aa
+| Author: NguyenThanhTien539 <161334882+NguyenThanhTien539@users.noreply.github.com>
+| Date:   2026-06-08 07:02:16 +0700
+| 
+|     add github repository link
+| 
+|  report/git_commit_log.md |  23 +++++++++++++++++++++++
+|  report/main_report.md    |   6 +++++-
+|  report/main_report.pdf   | Bin 216719 -> 0 bytes
+|  3 files changed, 28 insertions(+), 1 deletion(-)
+| 
 * commit a8f7f3cde4e6afb9247a4e43db8795070128443b
 | Author: NguyenThanhTien539 <161334882+NguyenThanhTien539@users.noreply.github.com>
 | Date:   2026-06-08 06:52:15 +0700
